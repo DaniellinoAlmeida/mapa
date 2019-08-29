@@ -1,0 +1,11 @@
+body{
+  background-color: blueviolet;
+}
+h1{
+  color: white;
+}
+label{
+  text-align: center;
+  color: white;
+  font-size: 12pt;
+}
